@@ -5,20 +5,138 @@ body {
     background: #FFFFFF;
 }
 
-.hero {
+.container { 
+    
+    width: 1440px;
+    height: 782px;
+    left: 0px;
+    top: 0px;
+
+    background-image: url("images/Bg Hero.png");
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+} 
+
+.h1{
+    position: absolute;
+    width: 384px;
+    height: 86px;
+    left: 534px;
+    top: 268px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 86px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.title {
+    position: absolute;
+    width: 540px;
+    height: 124px;
+    left: 450px;
+    top: 382px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    /* or 36px */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.signUp {
+    position: absolute;
+    width: 160px;
+    height: 50px;
+    left: 640px;
+    top: 545px;
+
+    background: #FFFFFF;
+    border-radius: 6px;
+}
+
+.button {
+    position: absolute;
+    width: 55px;
+    height: 17px;
+    left: 692px;
+    top: 562px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #ED4C5C;
+
+}
+
+
+/* .hero {
     position: absolute;
     width: 1440px;
     height: 782px;
     left: 0px;
     top: 0px;
-}
+} */
 
-.video {
+
+.videocontainer{
     position: absolute;
     width: 1440px;
     height: 500px;
     left: 0px;
     top: 782px;
+    /* justify-content: center;
+    align-items: center;
+    display: flex; */
+}
+
+.videotext{
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    left: 165px;
+    top: 140px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+
+    color: #000000;
+}
+
+
+.videoimage{
+    position: absolute;
+    width: 478px;
+    height: 311px;
+    
+    left: 797px;
+    top: 94px;
+    background-image: url("images/Video Section Image.png");
 }
 
 .overview {
