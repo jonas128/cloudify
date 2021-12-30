@@ -139,6 +139,23 @@ body {
     background-image: url("images/Video Section Image.png");
 }
 
+.copy{
+    position: absolute;
+width: 131px;
+height: 14px;
+left: 161px;
+top: 3822px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #101010;
+}
+
+
 .overview {
     position: absolute;
     width: 1440px;
