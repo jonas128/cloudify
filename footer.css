@@ -1,0 +1,122 @@
+.haddress{
+    position: absolute;
+    width: 65px;
+    height: 22px;
+    left: 166px;
+    top: 3572px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #101010;
+}
+
+.service{
+    position: absolute;
+    width: 67px;
+    height: 22px;
+    left: 450px;
+    top: 3572px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #101010;
+}
+
+.service1{
+    position: absolute;
+width: 254px;
+height: 114px;
+left: 450px;
+top: 3622px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 160%;
+/* or 19px */
+
+text-transform: capitalize;
+
+color: #000000;
+}
+
+.touch{
+    position: absolute;
+    width: 101px;
+    height: 22px;
+    left: 734px;
+    top: 3572px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: center;
+    color: #101010;
+
+}
+.touch1{
+    position: absolute;
+    width: 98px;
+    height: 14px;
+    left: 734px;
+    top: 3627px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #101010;
+}
+
+.copy{
+    position: absolute;
+    width: 131px;
+    height: 14px;
+    left: 161px;
+    top: 3822px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+
+color: #101010;
+}
+
+.address{
+    position: absolute;
+    position: absolute;
+    width: 254px;
+    height: 54px;
+    left: 166px;
+    top: 3627px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 150%;
+    /* or 18px */
+
+    color: #101010;
+
+}
